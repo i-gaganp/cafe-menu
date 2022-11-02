@@ -1,0 +1,26 @@
+.menu-heading {
+    color: orange;
+    padding: 5px 5px 0 0;
+    margin-left: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.menu {
+    background-color: black;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.menu-items {
+    color: orange;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 25px;
+    text-align: left;
+}
+
+.item-description {
+    margin-top: 0;
+    padding-top: 0;
+    color: rgb(231, 231, 231);
+
+}
